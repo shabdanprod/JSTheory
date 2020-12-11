@@ -21,3 +21,5 @@ if (num < 49) {
 } else {
     console.log('OK!');
 }
+
+(num === 50) ? console.log('ok!') : console.log('Error');
